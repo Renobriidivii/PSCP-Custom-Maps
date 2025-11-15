@@ -1,0 +1,53 @@
+<roblox!‰ÿ
+
+                 META$   "       ð      ExplicitAutoJoints   trueSSTR          P     
+ P     INST          ð        Model        INST   %       ý       Part   PINST          ð   
+   PointLight       PROP"           ð       AttributesSerialize    PROP          ð       Capabilities!        PROP          ð       DefinesCapabilities PROP          ð
+    
+   LevelOfDetail    PROP&   %       ð
+       ModelMeshCFrame €        PROP          ð
+    
+   ModelMeshData    PROP#   "       ð     
+   ModelMeshSize €        PROP!          ð       ModelStreamingMode    PROP"           ð       Name   Wiki Room ThingPROP          ð       NeedsPivotMigration PROP          ð	    
+   PrimaryPart   PROP          ð	    
+   ScaleFactor   PROP          ð       SlimHash    PROP           ð    
+   SourceAssetId       PROP          ð       Tags    PROP)   '       ð       WorldPivotDataˆ
+¦g‚,ÌÐˆp PROP          ð       Anchored  PROP(   0       ð      AttributesSerialize  P     PROP          ð      AudioCanCollidePROP"   '       ð   
+   BackParamA~   PPROP"   '       ð   
+   BackParamB~   P     PROP   (       ú   
+   BackSurface  P     PROP$   -       ú
+      BackSurfaceInput  P     PROP$   )       ð       BottomParamA~   PPROP$   )       ð       BottomParamB~   P     PROP!   *       ú   
+   BottomSurface  P     PROP'   /       ð
+      BottomSurfaceInput  P     PROPR   P       ð      CFrameˆ ð
+
+
+
+Ó¦¦ÓY7gg7›‚ €‚‚ Ù€ì  ™ Ì
+ 
+Î' ðˆtpfg{ €Ì™ÍÑPROP          ð	   
+   CanCollidePROP          ð       CanQueryPROP          ð       CanTouchPROP!   =       ÿ       Capabilities!  P     PROP          ð	   
+   CastShadow PROP-   N       ÿ      CollisionGroup    Default
+ PfaultPROP$   -       ú
+      CollisionGroupId  P     PROP%   #       ð   
+   Color3uint8!´´!ý!­­!ê!²²!PROP(   &       ð      CustomPhysicalPropertiesPROP#   !       ð      DefinesCapabilities     PROP!          ð      EnableFluidForces  PROP#   (       ð   
+   FrontParamA~   PPROP#   (       ð   
+   FrontParamB~   P     PROP    )       ú       FrontSurface  P     PROP%   .       ú      FrontSurfaceInput  P     PROP"   '       ð   
+   LeftParamA~   PPROP"   '       ð   
+   LeftParamB~   P     PROP   (       ú   
+   LeftSurface  P     PROP$   -       ú
+      LeftSurfaceInput  P     PROP          ð      Locked     PROP          ð       Massless     PROP!   %       õ      Material    00  PROP9   @       ñ	      MaterialVariantS
+ @ized! ¥    Tile8	 €        PROP0   6       Ð      Name	 @Part ÐFake   Floor  P PartPROP$   U       ð   
+   PivotOffset   #P     PROP   (       ú   
+   Reflectance  P     PROP#   (       ð   
+   RightParamA~   PPROP#   (       ð   
+   RightParamB~   P     PROP    )       ú       RightSurface  P     PROP%   .       ú      RightSurfaceInput  P     PROP    )       ú       RootPriority  P     PROP    P       ÿ   
+   RotVelocity  #P     PROP"   >       ÿ   
+   SourceAssetId  PPROP   !       À      Tags  P     PROP!   &       ð   	   TopParamA~   PPROP!   &       ð   	   TopParamB~   P     PROP   '       ú   
+   TopSurface  P     PROP#   ,       ú
+      TopSurfaceInput  P     PROP!   )       ù      Transparency  P     PROP   M       ÿ      Velocity  #P     PROP!   *       ú   
+   formFactorRaw  PPROP   "       ú       shape  P PROPJ   I       ñ       size„…„„h 3™  ™3š  š4~ƒ   `3     ð4„†„€±   3™   3š   4PROP"           ð      AttributesSerialize    PROP          ð   
+   Brightness€ffPROP          ð      Capabilities!        PROP          ð
+      Color         PROP          ð      DefinesCapabilities PROP          ð       EnabledPROP          ð      Name
+   PointLightPROP          ð      Range„à  PROP          ð       Shadows PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PRNT   =       ?    	 P  
+	END     	       </roblox>
